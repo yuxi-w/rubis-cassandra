@@ -1,0 +1,1 @@
+CREATE KEYSPACE if not exists rubis WITH replication = {'class': 'SimpleStrategy', 'replication_factor' : 1};
